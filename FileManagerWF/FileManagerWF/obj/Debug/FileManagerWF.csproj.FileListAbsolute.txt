@@ -1,0 +1,15 @@
+F:\VS Projects\FileManagerWF\FileManagerWF\bin\Debug\FileManagerWF.exe
+F:\VS Projects\FileManagerWF\FileManagerWF\bin\Debug\FileManagerWF.exe.config
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.DialogBox.resources
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.DirectoryInfoDialogBox.resources
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.FileInfoDialogBox.resources
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.Form1.resources
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.Images.resources
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.Properties.Resources.resources
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.SearchDialogBox.resources
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.csproj.GenerateResource.cache
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.csproj.CoreCompileInputs.cache
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.exe
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.pdb
+F:\VS Projects\FileManagerWF\FileManagerWF\bin\Debug\FileManagerWF.pdb
+F:\VS Projects\FileManagerWF\FileManagerWF\obj\Debug\FileManagerWF.csprojAssemblyReference.cache
