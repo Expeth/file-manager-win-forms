@@ -1,2 +1,2 @@
-# File-Manager-WinForms
-File Manager WinForms
+# FileManagerWinForms
+Simple file manager writed on C# using WinForms
