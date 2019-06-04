@@ -1,5 +1,4 @@
 # FileManager
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This is simple file manager writed on C# using WinForms
 #### Author: [Kovetskiy Valeriy](https://t.me/kovetskiy)
